@@ -1,4 +1,4 @@
-library page_transition;
+library nd_page_transition;
 
 export 'src/enum.dart';
-export 'src/page_transition.dart';
+export 'src/nd_page_transition.dart';
